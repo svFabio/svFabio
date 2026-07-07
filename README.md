@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=2500&color=ffffff&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Backend+%7C+Frontend+%7C+AI+Integrations.;Always+learning.+Always+improving."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=2500&color=ffffff&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Backend+%7C+Frontend+%7C+BBDD+%7C+AI+Integrations.;Always+learning.+Always+improving."/>
 
 <br/><br/>
 
