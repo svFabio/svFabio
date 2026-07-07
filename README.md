@@ -203,9 +203,6 @@ Academic recommendation platform for UMSS students.
 
 <div align="center">
 
-<a href="https://github.com/svFabio">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://linkedin.com/in/fabio-salguero-systems-engineer">
 <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin"/>
