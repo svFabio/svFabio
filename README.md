@@ -1,211 +1,54 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,50:7F1D1D,100:450A0A&text=Fabio%20Salguero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System-Engineer%20%20•%20Full-Stack%20Developer%20%20&descAlignY=57&descColor=E5E7EB"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=2500&color=ffffff&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Backend+%7C+Frontend+%7C+BBDD+%7C+AI+Integrations.;Always+learning.+Always+improving."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,50:7F1D1D,100:450A0A&text=Fabio%20Salguero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%20&descAlignY=57&descColor=E5E7EB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=E5E7EB&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Backend-focused%2C+full-stack+when+needed.;Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Always+learning%2C+always+improving."/>
 
 
-
-</div>
-
----
-
-# Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,go,php,dart,lua"/>
-
-
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,html,css"/>
-
-
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,spring"/>
-
-
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,neovim"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabio-salguero-systems-engineer)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram)](https://instagram.com/fabioandressv)
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail)](mailto:TU_CORREO)
 
 </div>
 
 ---
 
-# Featured Projects
+### What I'm Building
 
-<table>
+| Project | Description | Stack |
+|---|---|---|
+| **[Wavio](https://github.com/svFabio/wavio)** | Wavio is an AI-powered appointment management platform for service businesses. It automates customer scheduling through WhatsApp using Google Gemini. | `NestJS` `Tailwind` `Node.js` |
+| **[Tatt Manager](https://github.com/svFabio/tatt-manager-mobile)** | Full management platform for tattoo studios | `React Native` `TypeScript` |
+| **[Portly](https://github.com/CrhistoferVera/portly-backend)** | Digital portfolio generator built in a software engineering workshop | `Java` `Spring Boot` |
+| **[BrujulaU](https://github.com/svFabio/BrujulaU)** | Academic recommendation platform for UMSS students | `Java` `JavaFX` `Sqlite` |
 
-<tr>
+---
 
-<td width="50%">
+### Tech DNA
 
-## AI Appointment Platform
+```
+Languages      TypeScript · JavaScript · Java · Python · Go · PHP · Dart
+Frontend       React · Next.js · Vite · Tailwind
+Backend        NestJS · Express · Laravel · Spring Boot
+Database       PostgreSQL · MySQL · MongoDB
+Mobile         React Native · Expo · Flutter
+DevOps         Docker · Linux · Git · GitHub Actions
+AI Tooling     LLM Integrations · WhatsApp Bots · Automation
+```
 
-AI-powered appointment management platform with WhatsApp integration.
-
-**Stack**
-
-`TypeScript`
-`NestJS`
-`PostgreSQL`
-`React`
-
-<br/>
-
-<a href="https://github.com/svFabio/ai-appointment-platform-backend">
-
-<img src="https://img.shields.io/badge/Repository-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-## Tatt Manager
-
-Complete management platform for tattoo studios.
-
-**Stack**
-
-`TypeScript`
-`React Native`
-`NestJS`
-`PostgreSQL`
-
-<br/>
-
-<a href="https://github.com/svFabio/tatt-manager-backend">
-
-<img src="https://img.shields.io/badge/Repository-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## Portly
-
-Portfolio generator platform developed during the Software Engineering Workshop.
-
-**Stack**
-
-`React`
-`TypeScript`
-`Node.js`
-<br/>
-
-<a href="https://github.com/CrhistoferVera/portly-backend">
-
-<img src="https://img.shields.io/badge/Repository-black?style=for-the-badge&logo=github"/>
-
-</a>
-</td>
-
-<td width="50%">
-
-## BrujulaU
-
-Academic recommendation platform for UMSS students.
-
-**Stack**
-
-`React`
-`Node.js`
-`MongoDB`
-
-<br/>
-
-<a href="https://github.com/svFabio/BrujulaU">
-
-<img src="https://img.shields.io/badge/Repository-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-# GitHub Analytics
+---
 
 <div align="center">
-
-
 <img width="65%" src="https://github-readme-streak-stats-eight.vercel.app/?user=svFabio&theme=github-dark-blue&hide_border=true&background=00000000&ring=dc2626&fire=dc2626&currStreakLabel=dc2626"/>
-
 </div>
 
 ---
-
-# Current Focus
-
-<div align="center">
-
-| Backend | AI | Mobile | BBDD |
-|------------|-------|-----------|---------------|
-| NestJS | LLM Integrations | React Native | Performance |
-| Express | WhatsApp Bots | Flutter | Security |
-| Spring Boot | Automation | Expo | RLS |
-
-</div>
-
----
-
 
 <div align="center">
 
 > **"First make it work. Then make it right. Then make it fast."**
 
-<br/>
-
 ### 改善
-
 *Continuous Improvement.*
 
 </div>
-
----
-
-<div align="center">
-
-
-<a href="https://linkedin.com/in/fabio-salguero-systems-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/fabioandressv">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram"/>
-</a>
-
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090B,50:7F1D1D,100:450A0A"/>
