@@ -6,19 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=2500&color=ffffff&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Backend+%7C+Frontend+%7C+BBDD+%7C+AI+Integrations.;Always+learning.+Always+improving."/>
 
-<br/><br/>
 
-<a href="https://github.com/svFabio">
-<img src="https://img.shields.io/github/followers/svFabio?style=for-the-badge&logo=github&color=18181B"/>
-</a>
-
-<a href="https://linkedin.com/in/fabio-salguero-systems-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/fabioandressv">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram"/>
-</a>
 
 </div>
 
