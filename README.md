@@ -18,7 +18,7 @@
 | **[Wavio](https://github.com/svFabio/wavio)** | Wavio is an AI-powered appointment management platform for service businesses. It automates customer scheduling through WhatsApp using Google Gemini. | `NestJS` `Tailwind` `Node.js` |
 | **[Tatt Manager](https://github.com/svFabio/tatt-manager-mobile)** | Full management platform for tattoo studios | `React Native` `TypeScript` |
 | **[Portly](https://github.com/CrhistoferVera/portly-backend)** | Digital portfolio generator built in a software engineering workshop | `Java` `Spring Boot` |
-| **[BrujulaU](https://github.com/svFabio/BrujulaU)** | Academic recommendation platform for UMSS students | `Java` `JavaFX` `Sqlite` |
+| **[BrujulaU](https://github.com/svFabio/BrujulaU)** | Academic recommendation platform for UMSS students | `Java` `Sqlite` |
 
 ---
 
