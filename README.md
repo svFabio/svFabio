@@ -47,7 +47,6 @@ AI Tooling     LLM Integrations · WhatsApp Bots · Automation
 > **"First make it work. Then make it right. Then make it fast."**
 
 ### 改善
-*Continuous Improvement.*
 
 </div>
 
