@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabio-salguero-systems-engineer)
 [![Instagram](https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram)](https://instagram.com/fabioandressv)
-[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail)](mailto:TU_CORREO)
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail)](mailto:svfabio.andres@gmail.com)
 
 </div>
 
